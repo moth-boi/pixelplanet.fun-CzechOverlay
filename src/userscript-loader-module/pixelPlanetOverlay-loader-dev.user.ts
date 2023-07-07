@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         ${pkg.displayName}
-// @namespace    https://github.com/Woyken/pixelplanet.fun-OverlayPicture
+// @namespace    https://github.com/moth-boi/pixelplanet.fun-CzechOverlay
 // @version      ${pkg.version}
 // @description  ${pkg.description}
 // @author       ${pkg.author}
 // @include      https://pixelplanet.fun/*
 // @grant        none
-// @downloadURL  https://woyken.github.io/pixelplanet.fun-OverlayPicture/pixelPlanetOverlay-loader.user.js
+// @downloadURL  https://moth-boi.github.io/pixelplanet.fun-CzechOverlay/pixelPlanetOverlay-loader.user.js
 // ==/UserScript==
 
 import './pixelPlanetOverlay.user';
