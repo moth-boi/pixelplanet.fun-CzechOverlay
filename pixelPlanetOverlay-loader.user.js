@@ -1,14 +1,14 @@
 
 // ==UserScript==
-// @name         pixelplanet.fun picture overlay
-// @namespace    https://github.com/Woyken/pixelplanet.fun-OverlayPicture
+// @name         pixelplanet.fun czech overlay
+// @namespace    https://github.com/moth-boi/pixelplanet.fun-CzechOverlay
 // @version      1.1.12
 // @description  Add your picture as overlay to pixelplanet.fun
-// @author       Woyken
+// @author       MotH
 // @include      https://pixelplanet.fun/*
 // @include      https://fuckyouarkeros.fun/*
 // @grant        none
-// @downloadURL  https://woyken.github.io/pixelplanet.fun-OverlayPicture/pixelPlanetOverlay-loader.user.js
+// @downloadURL  https://moth-boi.github.io/pixelplanet.fun-CzechOverlay/pixelPlanetOverlay-loader.user.js
 // ==/UserScript==
 /**/
 
